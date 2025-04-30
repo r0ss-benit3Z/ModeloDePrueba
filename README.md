@@ -1,3 +1,3 @@
 # ModeloDePrueba
 
-<h2> Repaso par la prueba<h2>
+<h2> Repaso para la prueba<h2>
